@@ -1,3 +1,4 @@
+# encoding: utf-8
 String.class_eval do
 	def to_vnlink
 		text = self.downcase
