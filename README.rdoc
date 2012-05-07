@@ -4,4 +4,11 @@ This project rocks and uses MIT-LICENSE.
 This gem will add to_vnlink method for String class.
 to_vnlink method will transform "Cộng đồng Ruby" to "cong-dong-ruby" ... 
 
+How to use:
+stirng = "Cộng đồng Ruby"
+puts string.to_vnlink 
+
+You will see the result
+cong-dong-ruby
+
 Updated for Ruby 1.9
